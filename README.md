@@ -6,9 +6,9 @@ This repository contains a Jupyter notebook (.ipynb) that generates a world map 
 
 ![Books read](/readme_images/books_read_range_limited.png)
 
-Detailed notes are included such that the notebook can be used by those entirely unfamiliar with Python, the workings can also be modified to suit individual preferences. The basics of running the code are to: make sure you drop your own Goodreads export into the files tab, change the file_name variable to your file name, and then just run the cells in order (CTRL+ENTER runs a cell) - everything you can hopefully Google.
+Detailed notes are included such that the notebook can be used by those entirely unfamiliar with Python, the workings can also be modified to suit individual preferences. The basics of running the code are to: make sure you drop your own Goodreads export into the files tab (screenshot of what you should see below, make sure the file_name in the code is the samea as the one you uploaded, and then just run the cells in order (CTRL+ENTER runs a cell) - everything else you should be able to Google.
 
-![Dropping Goodreads export into file tab](/readme_images/screenshot_data_drop.png)
+<img src="/readme_images/screenshot_data_drop.PNG" width="626.6" height="608">
 
 This is a public notebook that is free to use, modify and develop. This code is inspired by a post on r/52books (https://redd.it/tvw05r) and I wrote it partly as a coding exercise, as well as with the aim of widening the scope of my own reading. 
 
